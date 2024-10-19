@@ -12,7 +12,5 @@ public class Main {
         calculator = new Calculator(floor, carpet);
         System.out.println("The total cost is $" + calculator.getTotalCost());
 
-
     }
-
 }
